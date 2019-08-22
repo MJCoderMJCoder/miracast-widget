@@ -1,0 +1,810 @@
+[
+    {
+        "outputFile": "C:\\Users\\MJCoder\\Desktop\\miracast-widget-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hy-rAM\\values-hy-rAM.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 102,
+                    "endOffset": 203
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 102,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 208,
+                    "endColumn": 107,
+                    "endOffset": 311
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 107,
+                        "endOffset": 261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 316,
+                    "endColumn": 122,
+                    "endOffset": 434
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 266,
+                        "endColumn": 122,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 439,
+                    "endColumn": 100,
+                    "endOffset": 535
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 100,
+                        "endOffset": 485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 540,
+                    "endColumn": 109,
+                    "endOffset": 645
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 490,
+                        "endColumn": 109,
+                        "endOffset": 595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 650,
+                    "endColumn": 89,
+                    "endOffset": 735
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 600,
+                        "endColumn": 89,
+                        "endOffset": 685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 740,
+                    "endColumn": 105,
+                    "endOffset": 841
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 690,
+                        "endColumn": 105,
+                        "endOffset": 791
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 846,
+                    "endColumn": 114,
+                    "endOffset": 956
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 796,
+                        "endColumn": 114,
+                        "endOffset": 906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 961,
+                    "endColumn": 81,
+                    "endOffset": 1038
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 911,
+                        "endColumn": 81,
+                        "endOffset": 988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1043,
+                    "endColumn": 80,
+                    "endOffset": 1119
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 993,
+                        "endColumn": 80,
+                        "endOffset": 1069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1124,
+                    "endColumn": 84,
+                    "endOffset": 1204
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1074,
+                        "endColumn": 84,
+                        "endOffset": 1154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1209,
+                    "endColumn": 106,
+                    "endOffset": 1311
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1159,
+                        "endColumn": 106,
+                        "endOffset": 1261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1316,
+                    "endColumn": 106,
+                    "endOffset": 1418
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1266,
+                        "endColumn": 106,
+                        "endOffset": 1368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1423,
+                    "endColumn": 98,
+                    "endOffset": 1517
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1373,
+                        "endColumn": 98,
+                        "endOffset": 1467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1522,
+                    "endColumn": 109,
+                    "endOffset": 1627
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1472,
+                        "endColumn": 109,
+                        "endOffset": 1577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1632,
+                    "endColumn": 106,
+                    "endOffset": 1734
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1582,
+                        "endColumn": 106,
+                        "endOffset": 1684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1739,
+                    "endColumn": 100,
+                    "endOffset": 1835
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1689,
+                        "endColumn": 100,
+                        "endOffset": 1785
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1840,
+                    "endColumn": 119,
+                    "endOffset": 1955
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1790,
+                        "endColumn": 119,
+                        "endOffset": 1905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1960,
+                    "endColumn": 98,
+                    "endOffset": 2054
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1910,
+                        "endColumn": 98,
+                        "endOffset": 2004
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2059,
+                    "endColumn": 258,
+                    "endOffset": 2313
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\106cd92736470088cef6c4ff2827a123f59c4c5e\\output\\res\\values-hy-rAM\\common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 262,
+                        "endOffset": 428
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2318,
+                    "endColumn": 100,
+                    "endOffset": 2414
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2009,
+                        "endColumn": 100,
+                        "endOffset": 2105
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\Android\\workspace\\miracast-widget\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hy-rAM\\values-hy-rAM.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 102,
+                    "endOffset": 203
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 102,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 208,
+                    "endColumn": 107,
+                    "endOffset": 311
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 107,
+                        "endOffset": 261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 316,
+                    "endColumn": 122,
+                    "endOffset": 434
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 266,
+                        "endColumn": 122,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 439,
+                    "endColumn": 100,
+                    "endOffset": 535
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 100,
+                        "endOffset": 485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 540,
+                    "endColumn": 109,
+                    "endOffset": 645
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 490,
+                        "endColumn": 109,
+                        "endOffset": 595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 650,
+                    "endColumn": 89,
+                    "endOffset": 735
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 600,
+                        "endColumn": 89,
+                        "endOffset": 685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 740,
+                    "endColumn": 105,
+                    "endOffset": 841
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 690,
+                        "endColumn": 105,
+                        "endOffset": 791
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 846,
+                    "endColumn": 114,
+                    "endOffset": 956
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 796,
+                        "endColumn": 114,
+                        "endOffset": 906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 961,
+                    "endColumn": 81,
+                    "endOffset": 1038
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 911,
+                        "endColumn": 81,
+                        "endOffset": 988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1043,
+                    "endColumn": 80,
+                    "endOffset": 1119
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 993,
+                        "endColumn": 80,
+                        "endOffset": 1069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1124,
+                    "endColumn": 84,
+                    "endOffset": 1204
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1074,
+                        "endColumn": 84,
+                        "endOffset": 1154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1209,
+                    "endColumn": 106,
+                    "endOffset": 1311
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1159,
+                        "endColumn": 106,
+                        "endOffset": 1261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1316,
+                    "endColumn": 106,
+                    "endOffset": 1418
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1266,
+                        "endColumn": 106,
+                        "endOffset": 1368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1423,
+                    "endColumn": 98,
+                    "endOffset": 1517
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1373,
+                        "endColumn": 98,
+                        "endOffset": 1467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1522,
+                    "endColumn": 109,
+                    "endOffset": 1627
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1472,
+                        "endColumn": 109,
+                        "endOffset": 1577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1632,
+                    "endColumn": 106,
+                    "endOffset": 1734
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1582,
+                        "endColumn": 106,
+                        "endOffset": 1684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1739,
+                    "endColumn": 100,
+                    "endOffset": 1835
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1689,
+                        "endColumn": 100,
+                        "endOffset": 1785
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1840,
+                    "endColumn": 119,
+                    "endOffset": 1955
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1790,
+                        "endColumn": 119,
+                        "endOffset": 1905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1960,
+                    "endColumn": 98,
+                    "endOffset": 2054
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1910,
+                        "endColumn": 98,
+                        "endOffset": 2004
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2059,
+                    "endColumn": 258,
+                    "endOffset": 2313
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\63f042c10c878be4be5318e1ce7929e6229d3ce4\\output\\res\\values-hy-rAM\\common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 262,
+                        "endOffset": 428
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2318,
+                    "endColumn": 100,
+                    "endOffset": 2414
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2009,
+                        "endColumn": 100,
+                        "endOffset": 2105
+                    }
+                }
+            }
+        ]
+    }
+]

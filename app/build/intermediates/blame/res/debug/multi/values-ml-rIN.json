@@ -1,0 +1,810 @@
+[
+    {
+        "outputFile": "C:\\Users\\MJCoder\\Desktop\\miracast-widget-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ml-rIN\\values-ml-rIN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 118,
+                    "endOffset": 219
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-ml-rIN\\values-ml-rIN.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 118,
+                        "endOffset": 169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 224,
+                    "endColumn": 107,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-ml-rIN\\values-ml-rIN.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 174,
+                        "endColumn": 107,
+                        "endOffset": 277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 332,
+                    "endColumn": 122,
+                    "endOffset": 450
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-ml-rIN\\values-ml-rIN.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 122,
+                        "endOffset": 400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 455,
+                    "endColumn": 117,
+                    "endOffset": 568
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-ml-rIN\\values-ml-rIN.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 405,
+                        "endColumn": 117,
+                        "endOffset": 518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 573,
+                    "endColumn": 115,
+                    "endOffset": 684
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-ml-rIN\\values-ml-rIN.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 523,
+                        "endColumn": 115,
+                        "endOffset": 634
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 689,
+                    "endColumn": 92,
+                    "endOffset": 777
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-ml-rIN\\values-ml-rIN.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 639,
+                        "endColumn": 92,
+                        "endOffset": 727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 782,
+                    "endColumn": 104,
+                    "endOffset": 882
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-ml-rIN\\values-ml-rIN.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 732,
+                        "endColumn": 104,
+                        "endOffset": 832
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 887,
+                    "endColumn": 131,
+                    "endOffset": 1014
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-ml-rIN\\values-ml-rIN.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 837,
+                        "endColumn": 131,
+                        "endOffset": 964
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1019,
+                    "endColumn": 76,
+                    "endOffset": 1091
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-ml-rIN\\values-ml-rIN.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 969,
+                        "endColumn": 76,
+                        "endOffset": 1041
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1096,
+                    "endColumn": 75,
+                    "endOffset": 1167
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-ml-rIN\\values-ml-rIN.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1046,
+                        "endColumn": 75,
+                        "endOffset": 1117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1172,
+                    "endColumn": 81,
+                    "endOffset": 1249
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-ml-rIN\\values-ml-rIN.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1122,
+                        "endColumn": 81,
+                        "endOffset": 1199
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1254,
+                    "endColumn": 110,
+                    "endOffset": 1360
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-ml-rIN\\values-ml-rIN.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1204,
+                        "endColumn": 110,
+                        "endOffset": 1310
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1365,
+                    "endColumn": 105,
+                    "endOffset": 1466
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-ml-rIN\\values-ml-rIN.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1315,
+                        "endColumn": 105,
+                        "endOffset": 1416
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1471,
+                    "endColumn": 97,
+                    "endOffset": 1564
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-ml-rIN\\values-ml-rIN.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1421,
+                        "endColumn": 97,
+                        "endOffset": 1514
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1569,
+                    "endColumn": 113,
+                    "endOffset": 1678
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-ml-rIN\\values-ml-rIN.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1519,
+                        "endColumn": 113,
+                        "endOffset": 1628
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1683,
+                    "endColumn": 100,
+                    "endOffset": 1779
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-ml-rIN\\values-ml-rIN.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1633,
+                        "endColumn": 100,
+                        "endOffset": 1729
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1784,
+                    "endColumn": 110,
+                    "endOffset": 1890
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-ml-rIN\\values-ml-rIN.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1734,
+                        "endColumn": 110,
+                        "endOffset": 1840
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1895,
+                    "endColumn": 127,
+                    "endOffset": 2018
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-ml-rIN\\values-ml-rIN.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1845,
+                        "endColumn": 127,
+                        "endOffset": 1968
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2023,
+                    "endColumn": 100,
+                    "endOffset": 2119
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-ml-rIN\\values-ml-rIN.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1973,
+                        "endColumn": 100,
+                        "endOffset": 2069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2124,
+                    "endColumn": 269,
+                    "endOffset": 2389
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\106cd92736470088cef6c4ff2827a123f59c4c5e\\output\\res\\values-ml-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 273,
+                        "endOffset": 439
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2394,
+                    "endColumn": 100,
+                    "endOffset": 2490
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-ml-rIN\\values-ml-rIN.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2074,
+                        "endColumn": 100,
+                        "endOffset": 2170
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\Android\\workspace\\miracast-widget\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ml-rIN\\values-ml-rIN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 118,
+                    "endOffset": 219
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-ml-rIN\\values-ml-rIN.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 118,
+                        "endOffset": 169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 224,
+                    "endColumn": 107,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-ml-rIN\\values-ml-rIN.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 174,
+                        "endColumn": 107,
+                        "endOffset": 277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 332,
+                    "endColumn": 122,
+                    "endOffset": 450
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-ml-rIN\\values-ml-rIN.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 122,
+                        "endOffset": 400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 455,
+                    "endColumn": 117,
+                    "endOffset": 568
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-ml-rIN\\values-ml-rIN.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 405,
+                        "endColumn": 117,
+                        "endOffset": 518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 573,
+                    "endColumn": 115,
+                    "endOffset": 684
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-ml-rIN\\values-ml-rIN.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 523,
+                        "endColumn": 115,
+                        "endOffset": 634
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 689,
+                    "endColumn": 92,
+                    "endOffset": 777
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-ml-rIN\\values-ml-rIN.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 639,
+                        "endColumn": 92,
+                        "endOffset": 727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 782,
+                    "endColumn": 104,
+                    "endOffset": 882
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-ml-rIN\\values-ml-rIN.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 732,
+                        "endColumn": 104,
+                        "endOffset": 832
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 887,
+                    "endColumn": 131,
+                    "endOffset": 1014
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-ml-rIN\\values-ml-rIN.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 837,
+                        "endColumn": 131,
+                        "endOffset": 964
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1019,
+                    "endColumn": 76,
+                    "endOffset": 1091
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-ml-rIN\\values-ml-rIN.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 969,
+                        "endColumn": 76,
+                        "endOffset": 1041
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1096,
+                    "endColumn": 75,
+                    "endOffset": 1167
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-ml-rIN\\values-ml-rIN.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1046,
+                        "endColumn": 75,
+                        "endOffset": 1117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1172,
+                    "endColumn": 81,
+                    "endOffset": 1249
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-ml-rIN\\values-ml-rIN.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1122,
+                        "endColumn": 81,
+                        "endOffset": 1199
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1254,
+                    "endColumn": 110,
+                    "endOffset": 1360
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-ml-rIN\\values-ml-rIN.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1204,
+                        "endColumn": 110,
+                        "endOffset": 1310
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1365,
+                    "endColumn": 105,
+                    "endOffset": 1466
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-ml-rIN\\values-ml-rIN.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1315,
+                        "endColumn": 105,
+                        "endOffset": 1416
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1471,
+                    "endColumn": 97,
+                    "endOffset": 1564
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-ml-rIN\\values-ml-rIN.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1421,
+                        "endColumn": 97,
+                        "endOffset": 1514
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1569,
+                    "endColumn": 113,
+                    "endOffset": 1678
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-ml-rIN\\values-ml-rIN.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1519,
+                        "endColumn": 113,
+                        "endOffset": 1628
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1683,
+                    "endColumn": 100,
+                    "endOffset": 1779
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-ml-rIN\\values-ml-rIN.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1633,
+                        "endColumn": 100,
+                        "endOffset": 1729
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1784,
+                    "endColumn": 110,
+                    "endOffset": 1890
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-ml-rIN\\values-ml-rIN.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1734,
+                        "endColumn": 110,
+                        "endOffset": 1840
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1895,
+                    "endColumn": 127,
+                    "endOffset": 2018
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-ml-rIN\\values-ml-rIN.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1845,
+                        "endColumn": 127,
+                        "endOffset": 1968
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2023,
+                    "endColumn": 100,
+                    "endOffset": 2119
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-ml-rIN\\values-ml-rIN.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1973,
+                        "endColumn": 100,
+                        "endOffset": 2069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2124,
+                    "endColumn": 269,
+                    "endOffset": 2389
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\63f042c10c878be4be5318e1ce7929e6229d3ce4\\output\\res\\values-ml-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 273,
+                        "endOffset": 439
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2394,
+                    "endColumn": 100,
+                    "endOffset": 2490
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-ml-rIN\\values-ml-rIN.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2074,
+                        "endColumn": 100,
+                        "endOffset": 2170
+                    }
+                }
+            }
+        ]
+    }
+]

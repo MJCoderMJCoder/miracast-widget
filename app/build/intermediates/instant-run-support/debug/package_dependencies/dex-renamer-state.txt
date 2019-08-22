@@ -1,0 +1,25 @@
+#Tue Sep 12 13:52:56 CST 2017
+renamed.7=classes6.dex
+renamed.6=classes4.dex
+renamed.5=classes3.dex
+renamed.4=classes.dex
+renamed.3=classes8.dex
+renamed.2=classes7.dex
+renamed.1=classes2.dex
+renamed.0=classes5.dex
+base.7=C\:\\Users\\MJCoder\\Desktop\\miracast-widget-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b6f24267f117a021f6ff07a1962a55aac5da915f
+base.6=C\:\\Users\\MJCoder\\Desktop\\miracast-widget-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_75750b4664b38f8f92a5c8e86e0af8b8edf7d33b
+base.5=C\:\\Users\\MJCoder\\Desktop\\miracast-widget-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_5e845c6a4e0b92a472bbbdc03fdf958cd0182f54
+base.4=C\:\\Users\\MJCoder\\Desktop\\miracast-widget-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_0763fbc6d5d62e75ac51c21494c00675ee71b98e
+base.3=C\:\\Users\\MJCoder\\Desktop\\miracast-widget-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.2.1_98a74b17567c06df80a231a407415a2cff9be890
+base.2=C\:\\Users\\MJCoder\\Desktop\\miracast-widget-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.2.1_3cee5528a8895cd9bdfedc7e9d2c1576055aab95
+base.1=C\:\\Users\\MJCoder\\Desktop\\miracast-widget-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_5079876488cbfe89ca202a55341dc06459780aba
+base.0=C\:\\Users\\MJCoder\\Desktop\\miracast-widget-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_a8267ea381eba5e2ea525bcbc0ac7d9d1cfc789f
+file.7=C\:\\Users\\MJCoder\\Desktop\\miracast-widget-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b6f24267f117a021f6ff07a1962a55aac5da915f\\classes.dex
+file.6=C\:\\Users\\MJCoder\\Desktop\\miracast-widget-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_75750b4664b38f8f92a5c8e86e0af8b8edf7d33b\\classes.dex
+file.5=C\:\\Users\\MJCoder\\Desktop\\miracast-widget-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_5e845c6a4e0b92a472bbbdc03fdf958cd0182f54\\classes.dex
+file.4=C\:\\Users\\MJCoder\\Desktop\\miracast-widget-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_0763fbc6d5d62e75ac51c21494c00675ee71b98e\\classes.dex
+file.3=C\:\\Users\\MJCoder\\Desktop\\miracast-widget-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.2.1_98a74b17567c06df80a231a407415a2cff9be890\\classes.dex
+file.2=C\:\\Users\\MJCoder\\Desktop\\miracast-widget-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.2.1_3cee5528a8895cd9bdfedc7e9d2c1576055aab95\\classes.dex
+file.1=C\:\\Users\\MJCoder\\Desktop\\miracast-widget-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_5079876488cbfe89ca202a55341dc06459780aba\\classes.dex
+file.0=C\:\\Users\\MJCoder\\Desktop\\miracast-widget-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_a8267ea381eba5e2ea525bcbc0ac7d9d1cfc789f\\classes.dex

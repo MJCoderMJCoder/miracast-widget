@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android\\workspace\\miracast-widget\\app\\build\\intermediates\\res\\merged\\debug\\xml\\miracast_widget_info.xml",
+        "source": "E:\\Android\\workspace\\miracast-widget\\app\\src\\main\\res\\xml\\miracast_widget_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\miracast-widget-master\\app\\build\\intermediates\\res\\merged\\debug\\xml\\miracast_widget_info.xml",
+        "source": "C:\\Users\\MJCoder\\Desktop\\miracast-widget-master\\app\\src\\main\\res\\xml\\miracast_widget_info.xml"
+    }
+]

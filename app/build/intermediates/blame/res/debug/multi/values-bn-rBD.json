@@ -1,0 +1,810 @@
+[
+    {
+        "outputFile": "C:\\Users\\MJCoder\\Desktop\\miracast-widget-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bn-rBD\\values-bn-rBD.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 108,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 108,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endColumn": 107,
+                    "endOffset": 317
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 107,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 322,
+                    "endColumn": 122,
+                    "endOffset": 440
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 272,
+                        "endColumn": 122,
+                        "endOffset": 390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 445,
+                    "endColumn": 111,
+                    "endOffset": 552
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 395,
+                        "endColumn": 111,
+                        "endOffset": 502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 557,
+                    "endColumn": 105,
+                    "endOffset": 658
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 507,
+                        "endColumn": 105,
+                        "endOffset": 608
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 663,
+                    "endColumn": 93,
+                    "endOffset": 752
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 613,
+                        "endColumn": 93,
+                        "endOffset": 702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 757,
+                    "endColumn": 104,
+                    "endOffset": 857
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 707,
+                        "endColumn": 104,
+                        "endOffset": 807
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 862,
+                    "endColumn": 129,
+                    "endOffset": 987
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 812,
+                        "endColumn": 129,
+                        "endOffset": 937
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 992,
+                    "endColumn": 77,
+                    "endOffset": 1065
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 942,
+                        "endColumn": 77,
+                        "endOffset": 1015
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1070,
+                    "endColumn": 77,
+                    "endOffset": 1143
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1020,
+                        "endColumn": 77,
+                        "endOffset": 1093
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1148,
+                    "endColumn": 86,
+                    "endOffset": 1230
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1098,
+                        "endColumn": 86,
+                        "endOffset": 1180
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1235,
+                    "endColumn": 109,
+                    "endOffset": 1340
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1185,
+                        "endColumn": 109,
+                        "endOffset": 1290
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1345,
+                    "endColumn": 115,
+                    "endOffset": 1456
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1295,
+                        "endColumn": 115,
+                        "endOffset": 1406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1461,
+                    "endColumn": 106,
+                    "endOffset": 1563
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1411,
+                        "endColumn": 106,
+                        "endOffset": 1513
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1568,
+                    "endColumn": 109,
+                    "endOffset": 1673
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1518,
+                        "endColumn": 109,
+                        "endOffset": 1623
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1678,
+                    "endColumn": 105,
+                    "endOffset": 1779
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1628,
+                        "endColumn": 105,
+                        "endOffset": 1729
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1784,
+                    "endColumn": 109,
+                    "endOffset": 1889
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1734,
+                        "endColumn": 109,
+                        "endOffset": 1839
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1894,
+                    "endColumn": 124,
+                    "endOffset": 2014
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1844,
+                        "endColumn": 124,
+                        "endOffset": 1964
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2019,
+                    "endColumn": 104,
+                    "endOffset": 2119
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1969,
+                        "endColumn": 104,
+                        "endOffset": 2069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2124,
+                    "endColumn": 265,
+                    "endOffset": 2385
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\106cd92736470088cef6c4ff2827a123f59c4c5e\\output\\res\\values-bn-rBD\\common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 269,
+                        "endOffset": 435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2390,
+                    "endColumn": 100,
+                    "endOffset": 2486
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\d9948ede9dab18613cb4c0d1881e2f8109cc9601\\output\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2074,
+                        "endColumn": 100,
+                        "endOffset": 2170
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\Android\\workspace\\miracast-widget\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bn-rBD\\values-bn-rBD.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 108,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 108,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endColumn": 107,
+                    "endOffset": 317
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 107,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 322,
+                    "endColumn": 122,
+                    "endOffset": 440
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 272,
+                        "endColumn": 122,
+                        "endOffset": 390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 445,
+                    "endColumn": 111,
+                    "endOffset": 552
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 395,
+                        "endColumn": 111,
+                        "endOffset": 502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 557,
+                    "endColumn": 105,
+                    "endOffset": 658
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 507,
+                        "endColumn": 105,
+                        "endOffset": 608
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 663,
+                    "endColumn": 93,
+                    "endOffset": 752
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 613,
+                        "endColumn": 93,
+                        "endOffset": 702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 757,
+                    "endColumn": 104,
+                    "endOffset": 857
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 707,
+                        "endColumn": 104,
+                        "endOffset": 807
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 862,
+                    "endColumn": 129,
+                    "endOffset": 987
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 812,
+                        "endColumn": 129,
+                        "endOffset": 937
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 992,
+                    "endColumn": 77,
+                    "endOffset": 1065
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 942,
+                        "endColumn": 77,
+                        "endOffset": 1015
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1070,
+                    "endColumn": 77,
+                    "endOffset": 1143
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1020,
+                        "endColumn": 77,
+                        "endOffset": 1093
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1148,
+                    "endColumn": 86,
+                    "endOffset": 1230
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1098,
+                        "endColumn": 86,
+                        "endOffset": 1180
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1235,
+                    "endColumn": 109,
+                    "endOffset": 1340
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1185,
+                        "endColumn": 109,
+                        "endOffset": 1290
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1345,
+                    "endColumn": 115,
+                    "endOffset": 1456
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1295,
+                        "endColumn": 115,
+                        "endOffset": 1406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1461,
+                    "endColumn": 106,
+                    "endOffset": 1563
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1411,
+                        "endColumn": 106,
+                        "endOffset": 1513
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1568,
+                    "endColumn": 109,
+                    "endOffset": 1673
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1518,
+                        "endColumn": 109,
+                        "endOffset": 1623
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1678,
+                    "endColumn": 105,
+                    "endOffset": 1779
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1628,
+                        "endColumn": 105,
+                        "endOffset": 1729
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1784,
+                    "endColumn": 109,
+                    "endOffset": 1889
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1734,
+                        "endColumn": 109,
+                        "endOffset": 1839
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1894,
+                    "endColumn": 124,
+                    "endOffset": 2014
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1844,
+                        "endColumn": 124,
+                        "endOffset": 1964
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2019,
+                    "endColumn": 104,
+                    "endOffset": 2119
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1969,
+                        "endColumn": 104,
+                        "endOffset": 2069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2124,
+                    "endColumn": 265,
+                    "endOffset": 2385
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\63f042c10c878be4be5318e1ce7929e6229d3ce4\\output\\res\\values-bn-rBD\\common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 269,
+                        "endOffset": 435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2390,
+                    "endColumn": 100,
+                    "endOffset": 2486
+                },
+                "from": {
+                    "file": "C:\\Users\\MJCoder\\.android\\build-cache\\3a61e49a682eb60ef4ebb87258805b436eb65f17\\output\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2074,
+                        "endColumn": 100,
+                        "endOffset": 2170
+                    }
+                }
+            }
+        ]
+    }
+]
